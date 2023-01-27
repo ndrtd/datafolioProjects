@@ -5,11 +5,3 @@ This GitHub repository serves as a central location for all of the code and quer
 I hope that this repository will be helpful for those looking to land their dream job in data analysis. Please, feel free to take the code and queries and make them their own, finding their own insights, and building upon them.
 
 Welcome and see you soon :3
-
-## Projects 
-This section provides a list of the projects included in the repository, along with a brief summary of each project. Each project should have its own sub-section with the following information:
-    *__Problem statement:__ A brief description of the problem or task that the project aims to address
-    *__Data and Tools used:__ A brief description of the data source used for the project, and the tools and techniques used for data analysis.
-    *__Approach:__ A brief description of the approach used to solve the problem, including any assumptions made and any constraints that were taken into account.
-    *__Results:__ A summary of the results obtained from the project, including any insights or conclusions that were drawn.
-    *__Visualization/code/query:__ A link to the visualization, code, and queries used in the project.
