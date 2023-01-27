@@ -1,4 +1,4 @@
-# datafolioProjects
+# Data Analyst Portfolio Project Repository
 ## Introduction
 This GitHub repository serves as a central location for all of the code and queries used in the portfolio projects created by me. The purpose is to showcase the analyst's technical skills and understanding of various data analysis tools and techniques to potential employers and students.
 
