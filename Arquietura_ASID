@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T09:27:31.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HDg-Vgn-l1nY7hbCdphB" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:17:13.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AjFuTOPvoW17MklYNGDD" version="21.3.3" type="github">
   <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
-    <mxGraphModel dx="2275" dy="1267" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1517" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,7 +376,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JOLWJdyVjVyV-Ntz2RA3-439" value="PUBLIC &lt;br&gt;IoT GATEWAY" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/security/gateway.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=2;fillColor=#C2952D;gradientColor=none;fontSize=12;fontColor=#4277BB;spacingTop=3;" vertex="1" parent="63">
+        <mxCell id="JOLWJdyVjVyV-Ntz2RA3-439" value="PUBLIC &lt;br&gt;GATEWAY" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/security/gateway.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=2;fillColor=#C2952D;gradientColor=none;fontSize=12;fontColor=#4277BB;spacingTop=3;" vertex="1" parent="63">
           <mxGeometry x="188.5" y="263" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JOLWJdyVjVyV-Ntz2RA3-443" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4277BB;strokeWidth=2;fontSize=12;fontColor=#4277BB;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="63" source="7wTwygSyCMqpIO3Kzoxx-493" target="JOLWJdyVjVyV-Ntz2RA3-442">
